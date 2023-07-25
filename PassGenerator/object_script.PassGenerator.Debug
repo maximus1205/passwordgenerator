@@ -1,0 +1,12 @@
+debug/generator.o
+debug/main.o
+debug/CustomTextField_qml.o
+debug/passsaver_qml.o
+debug/pass_qml.o
+debug/main_qml.o
+debug/components_TopBarButton_qml.o
+debug/components_CustomButton_qml.o
+debug/components_exit_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_generator.o

@@ -1,0 +1,12 @@
+release/generator.o
+release/main.o
+release/CustomTextField_qml.o
+release/passsaver_qml.o
+release/pass_qml.o
+release/main_qml.o
+release/components_TopBarButton_qml.o
+release/components_CustomButton_qml.o
+release/components_exit_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_generator.o

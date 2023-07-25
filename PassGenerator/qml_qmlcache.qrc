@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="components/CustomButton.qml">components/CustomButton.qml</file>
+        <file alias="components/exit.qml">components/exit.qml</file>
+        <file alias="images/svg_images/close_icon.svg">images/svg_images/close_icon.svg</file>
+        <file alias="images/svg_images/home_icon.svg">images/svg_images/home_icon.svg</file>
+        <file alias="images/svg_images/icon_app_top.svg">images/svg_images/icon_app_top.svg</file>
+        <file alias="images/svg_images/maximize_icon.svg">images/svg_images/maximize_icon.svg</file>
+        <file alias="images/svg_images/menu_icon.svg">images/svg_images/menu_icon.svg</file>
+        <file alias="images/svg_images/minimize_icon.svg">images/svg_images/minimize_icon.svg</file>
+        <file alias="images/svg_images/open_icon.svg">images/svg_images/open_icon.svg</file>
+        <file alias="images/svg_images/resize_icon.svg">images/svg_images/resize_icon.svg</file>
+        <file alias="images/svg_images/restore_icon.svg">images/svg_images/restore_icon.svg</file>
+        <file alias="images/svg_images/save_icon.svg">images/svg_images/save_icon.svg</file>
+        <file alias="images/svg_images/settings_icon.svg">images/svg_images/settings_icon.svg</file>
+        <file alias="images/close_icon.svg">images/close_icon.svg</file>
+        <file alias="images/free-icon-home-1177455.png">images/free-icon-home-1177455.png</file>
+        <file alias="images/home_icon.svg">images/home_icon.svg</file>
+        <file alias="images/icon_app_top.svg">images/icon_app_top.svg</file>
+        <file alias="images/maximize_icon.svg">images/maximize_icon.svg</file>
+        <file alias="images/menu_icon.svg">images/menu_icon.svg</file>
+        <file alias="images/minimize_icon.svg">images/minimize_icon.svg</file>
+        <file alias="images/open_icon.svg">images/open_icon.svg</file>
+        <file alias="images/resize_icon.svg">images/resize_icon.svg</file>
+        <file alias="images/restore_icon.svg">images/restore_icon.svg</file>
+        <file alias="images/save_icon.svg">images/save_icon.svg</file>
+        <file alias="images/settings_icon.svg">images/settings_icon.svg</file>
+        <file alias="components/TopBarButton.qml">components/TopBarButton.qml</file>
+        <file alias="passsaver.qml">passsaver.qml</file>
+        <file alias="CustomTextField.qml">CustomTextField.qml</file>
+        <file alias="pass.qml">pass.qml</file>
+        <file alias="images/zxczxcczxzxc.ico">images/zxczxcczxzxc.ico</file>
+    </qresource>
+</RCC>

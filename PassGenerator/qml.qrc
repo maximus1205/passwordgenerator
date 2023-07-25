@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/CustomButton.qml</file>
+        <file>components/exit.qml</file>
+        <file>images/svg_images/close_icon.svg</file>
+        <file>images/svg_images/home_icon.svg</file>
+        <file>images/svg_images/icon_app_top.svg</file>
+        <file>images/svg_images/maximize_icon.svg</file>
+        <file>images/svg_images/menu_icon.svg</file>
+        <file>images/svg_images/minimize_icon.svg</file>
+        <file>images/svg_images/open_icon.svg</file>
+        <file>images/svg_images/resize_icon.svg</file>
+        <file>images/svg_images/restore_icon.svg</file>
+        <file>images/svg_images/save_icon.svg</file>
+        <file>images/svg_images/settings_icon.svg</file>
+        <file>images/close_icon.svg</file>
+        <file>images/free-icon-home-1177455.png</file>
+        <file>images/home_icon.svg</file>
+        <file>images/icon_app_top.svg</file>
+        <file>images/maximize_icon.svg</file>
+        <file>images/menu_icon.svg</file>
+        <file>images/minimize_icon.svg</file>
+        <file>images/open_icon.svg</file>
+        <file>images/resize_icon.svg</file>
+        <file>images/restore_icon.svg</file>
+        <file>images/save_icon.svg</file>
+        <file>images/settings_icon.svg</file>
+        <file>components/TopBarButton.qml</file>
+        <file>passsaver.qml</file>
+        <file>CustomTextField.qml</file>
+        <file>pass.qml</file>
+        <file>images/zxczxcczxzxc.ico</file>
+    </qresource>
+</RCC>
